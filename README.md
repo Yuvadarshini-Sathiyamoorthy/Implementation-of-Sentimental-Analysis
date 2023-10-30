@@ -37,4 +37,5 @@ for text, sentiment_score in zip(texts, sentiment_scores):
 ```
 
 ## Output:
-![image](https://github.com/Y-CHETHAN/Implementation-of-Sentimental-Analysis/assets/75234991/691b5e3a-59d9-4cbc-9a7c-5d62d1fd45b8)
+![img](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-Sentimental-Analysis/assets/93482485/107d701f-f04a-4050-84da-f330aafb04b9)
+
